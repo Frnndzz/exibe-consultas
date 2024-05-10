@@ -14,7 +14,7 @@ Checkpoint 2 da disciplicna Microservice and Web Engineering
 #### Clone
 
 ```
-git clone https://github.com/FrnndzFiap/fiap-checkpoint2.git
+git clone https://github.com/Frnndzz/exibe-consultas.git
 ```
 
 ## Execução
